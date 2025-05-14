@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script>
-        import { useState } from 'react';
+import { useState } from 'react';
 
 const tools = [
   { name: 'Online Notepad', url: '/tools/notepad.html' },
@@ -99,10 +92,4 @@ export default function UniKitDashboard() {
   );
 }
 
-    </script>
-</head>
-<body>
-    
-</body>
-</html>
 
